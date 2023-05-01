@@ -1,0 +1,7 @@
+1. The whole activity folder inside modules
+2. config/activity.php
+3. public/module/activity/*
+4. bravo_activitys database table
+5. bravo_activity_term database table
+6. bravo_activity_translations database table
+7. core_settings database table activity related values

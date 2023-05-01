@@ -1,0 +1,8 @@
+API key:
+5YnXBTY8tkC1sgVNJecl2c36r
+=============================================
+API secret key:
+FY1QcOpxsI6eGu45DEbGq4tOEn5JebdCDTHHa3W6PgOppeuKuI
+=============================================
+Bearer token:
+AAAAAAAAAAAAAAAAAAAAAL8YHwEAAAAAqpznTYn%2BM3QFJdhFylJacH4Bz1A%3DsCKRJ09si66GU7sHGqc81Z3UsnYeueu89nn8qRDlIlDAncgHPL
